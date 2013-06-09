@@ -57,7 +57,7 @@ Paul Driver, C<< <frodwith at cpan.org> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2007-2008 by Paul Driver.
+Copyright 2007-2013 by Paul Driver.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.

@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name:                MooseX-MultiInitArg
+version:             0.01
+abstract:            Attributes with aliases for constructor arguments.
+license:             ~
+author:              
+    - Paul Driver <frodwith@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Moose:                         0
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

@@ -1,0 +1,32 @@
+MooseX-MultiInitArg
+
+Specify aliases to be used in your constructor for Moose attributes.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc MooseX::MultiInitArg
+
+You can also look for information at:
+
+    Search CPAN
+        http://search.cpan.org/dist/MooseX-MultInitArg
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 Paul Driver
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.

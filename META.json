@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/frodwith/MooseX-MultiInitArg/issues"
+      },
+      "homepage" : "https://github.com/frodwith/MooseX-MultiInitArg",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/frodwith/MooseX-MultiInitArg.git",
+         "web" : "https://github.com/frodwith/MooseX-MultiInitArg"
+      }
+   },
+   "version" : "0.02"
 }
 

@@ -10,10 +10,10 @@ MooseX::MultiInitArg - Attributes with aliases for constructor arguments.
     
 
     has 'data' => (
-			metaclass => 'MultiInitArg',
+        metaclass => 'MultiInitArg',
 
-			# For composability, you could use the following:
-			# traits => ['MooseX::MultiInitArg::Trait'],
+      # For composability, you could use the following:
+      # traits => ['MooseX::MultiInitArg::Trait'],
 
         is        => 'ro',
         isa       => 'Str',

@@ -28,8 +28,7 @@ has x => (
 package main;
 use Test::More tests => 10;
 
-foreach my $class qw(WithTrait WithMeta)
-{
+foreach my $class (qw(WithTrait WithMeta)) {
 	my $foo = $class->new(x => 'x');
 	is($foo->x, 'x', "$class x works");
 
